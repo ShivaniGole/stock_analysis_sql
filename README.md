@@ -8,10 +8,10 @@ This project provides a comprehensive analysis of stock market data using SQL an
 - Insightful Analysis: Provides actionable insights into stock trends, volatility, and trading volumes.
 
 ## Technical Details
-Language: Python for data extraction
-Database: SQL Server
-Tools: SQL Server Management Studio (SSMS), GitHub for version control
-APIs: Alpha Vantage
+- Language: Python for data extraction
+- Database: SQL Server
+- Tools: SQL Server Management Studio (SSMS), GitHub for version control
+- APIs: Alpha Vantage
 
 ## Key SQL Queries
 - Calculate Daily Returns: Analyzes day-to-day price changes to aid short-term trading decisions.
@@ -26,5 +26,5 @@ APIs: Alpha Vantage
 - Calculate Percentage Change from First Day: Provides long-term perspective on stock performance.
 
   ## Business Implications
--Enables strategic decision-making by highlighting investment opportunities and risk management strategies.
--Provides measurable business insights, such as identifying peak trading days and assessing market volatility.
+- Enables strategic decision-making by highlighting investment opportunities and risk management strategies.
+- Provides measurable business insights, such as identifying peak trading days and assessing market volatility.
